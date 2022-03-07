@@ -1,4 +1,10 @@
-### Hi there 👋
+<p style="font-size:100px;"> Hello World </p> <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="300" height="300" align="left"/>
+
+
+
+
+
+
 
 <!--
 **mikayla-kosmala/mikayla-kosmala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
