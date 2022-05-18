@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikayla-kosmala&label=Profile%20views&color=0e75b6&style=flat" alt="mikayla-kosmala" /> </p>
 
-- 🌱 I’m currently learning **Azure, AWS and refreshing my SQL skills**
+- 🌱 I’m currently working **to get my Azure Fundamentals Certification while refreshing my SQL skills**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I have ran 2 marathons**
 - 📫 How to reach me **mikayla.kosmala@gmail.com**
